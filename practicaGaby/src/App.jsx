@@ -11,6 +11,13 @@ import Collapse from './components/Collapse'
 import Dropdown from './components/Dropdown'
 import ListGroup from './components/Listgroup'
 import Modal from './components/Modal'
+import Pagination from './components/Pagination'
+import Popover from './components/Popover'
+import Progres from './components/Progres'
+import Scrollspy from './components/Scrollspy'
+import Spinner from './components/Spiner'
+import Tooltip from './components/Tooltip'
+
 
 
 function App() {
@@ -51,6 +58,13 @@ function App() {
     <Dropdown/>
     <ListGroup/>
     <Modal/>
+    <Pagination/>
+    <Popover/>
+    <Progres/>
+    <Scrollspy/>
+    <Spinner/>
+    <Tooltip/>
+
 
     </>
   )
